@@ -49,7 +49,7 @@ Copy code
 npm start
 This will start the app on http://localhost:3000/.
 
-Usage
+#Usage
 Once the server is running, you can start using the To-Do List app:
 
 Add a new task:
@@ -62,7 +62,7 @@ Click on the checkbox next to the task to mark it as completed.
 Delete a task:
 
 Click the "Delete" button next to the task to remove it from the list.
-Features
+#Features
 Add Tasks: Easily add new tasks to your to-do list.
 Complete Tasks: Mark tasks as completed to keep track of your progress.
 Delete Tasks: Remove tasks that are no longer needed.
@@ -96,10 +96,10 @@ Go to the repository on GitHub.
 Click on the "Pull requests" tab.
 Click on the "New pull request" button.
 Provide a descriptive title and comment for your pull request.
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+#Contact
 If you have any questions or feedback, please feel free to contact me:
 
 Name: Your Name
