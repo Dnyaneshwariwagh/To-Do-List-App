@@ -28,6 +28,7 @@ To get started with the project, follow these steps:
 
 
    -Windows Command Prompt:
+   
 
    set NODE_OPTIONS=--openssl-legacy-provider
 
@@ -40,6 +41,7 @@ To get started with the project, follow these steps:
    -Unix/Linux/macOS:
 
     export NODE_OPTIONS=--openssl-legacy-provider
+
 
     
  4.Start the development server:
