@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
    cd to-do-listapp
    
 
-3. Install dependencies:
+2. Install dependencies:
 
    npm install
    
@@ -27,10 +27,9 @@ To get started with the project, follow these steps:
 3.Set environment variable for OpenSSL support (if using Node.js 17+):
 
 
-   -Windows Command Prompt:
-   
+   -Windows Comand Prompt:
 
-   set NODE_OPTIONS=--openssl-legacy-provider
+    set NODE_OPTIONS=--openssl-legacy-provider
 
    
    -Windows PowerShell:
