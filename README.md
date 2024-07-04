@@ -29,10 +29,12 @@ To get started with the project, follow these steps:
      -Windows Comand Prompt:
      
      set NODE_OPTIONS=--openssl-legacy-provider
+     
    
      -Windows PowerShell:
 
       $env:NODE_OPTIONS="--openssl-legacy-provider"
+      
     
      -Unix/Linux/macOS:
    
