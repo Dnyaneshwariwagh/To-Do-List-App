@@ -17,16 +17,16 @@ To get started with the project, follow these steps:
    
    git clone https://github.com/your-username/to-do-listapp.git
    cd to-do-listapp
-   
+
 2. Install dependencies:
 
    npm install
    
 3.Set environment variable for OpenSSL support (if using Node.js 17+):
 
-  - Windows Command Prompt:
+    -Windows Command Prompt:
 
-   set NODE_OPTIONS=--openssl-legacy-provider
+     set NODE_OPTIONS=--openssl-legacy-provider
    
    -Windows PowerShell:
 
