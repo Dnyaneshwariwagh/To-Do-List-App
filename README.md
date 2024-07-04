@@ -7,9 +7,7 @@ A simple and intuitive To-Do List application built with React. This app helps y
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  
 
 ## Installation
 
