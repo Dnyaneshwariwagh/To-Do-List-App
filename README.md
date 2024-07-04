@@ -13,14 +13,16 @@ A simple and intuitive To-Do List application built with React. This app helps y
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository:**
+1. clone the repository:
    
    git clone https://github.com/your-username/to-do-listapp.git
    cd to-do-listapp
+   
 
-2. Install dependencies:
+3. Install dependencies:
 
    npm install
+   
    
 3.Set environment variable for OpenSSL support (if using Node.js 17+):
 
@@ -35,12 +37,13 @@ To get started with the project, follow these steps:
    -Unix/Linux/macOS:
    
     export NODE_OPTIONS=--openssl-legacy-provider
+
     
-4.Start the development server:
+ 4.Start the development server:
 
-npm start
+    npm start
 
-This will start the app on http://localhost:3000/.
+    This will start the app on http://localhost:3000/.
 
 
 ## Usage
@@ -64,8 +67,11 @@ Once the server is running, you can start using the To-Do List app:
 ## Features
 
 -Add Tasks: Easily add new tasks to your to-do list.
+
 -Complete Tasks: Mark tasks as completed to keep track of your progress.
+
 -Delete Tasks: Remove tasks that are no longer needed.
+
 -Responsive Design: Works seamlessly on both desktop and mobile devices.
 
 
