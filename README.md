@@ -26,19 +26,19 @@ To get started with the project, follow these steps:
    
 3.Set environment variable for OpenSSL support (if using Node.js 17+):
 
-     -Windows Comand Prompt:
-     
-     set NODE_OPTIONS=--openssl-legacy-provider
-     
-   
-     -Windows PowerShell:
+   -Windows Command Prompt:
 
-      $env:NODE_OPTIONS="--openssl-legacy-provider"
-      
-    
-     -Unix/Linux/macOS:
+   set NODE_OPTIONS=--openssl-legacy-provider
+
    
-      export NODE_OPTIONS=--openssl-legacy-provider
+   -Windows PowerShell:
+
+    $env:NODE_OPTIONS="--openssl-legacy-provider"
+
+    
+   -Unix/Linux/macOS:
+
+    export NODE_OPTIONS=--openssl-legacy-provider
 
     
  4.Start the development server:
