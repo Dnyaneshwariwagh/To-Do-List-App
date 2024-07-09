@@ -15,7 +15,7 @@ To get started with the project, follow these steps:
 
 1. clone the repository:
    
-   git clone https://github.com/your-username/to-do-listapp.git
+   git clone https://github.com/Dnyaneshwariwagh/To-Do-List-App.git
    cd to-do-listapp
    
 
